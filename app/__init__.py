@@ -5,4 +5,4 @@ from app import routes
 
 #host="0.0.0.0",port=5008,debug=False
 #app.run(host="0.0.0.0",port=5001, debug=False)
-app.run()
+app.run(debug=True)
